@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\RandomAccessFile\RandomAccessFile\bin\Debug\RandomAccessFile.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\RandomAccessFile\RandomAccessFile\bin\Debug\RandomAccessFile.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\RandomAccessFile\RandomAccessFile\bin\Debug\RandomAccessFile.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\RandomAccessFile\RandomAccessFile\obj\Debug\RandomAccessFile.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\RandomAccessFile\RandomAccessFile\obj\Debug\RandomAccessFile.frmStudent.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\RandomAccessFile\RandomAccessFile\obj\Debug\RandomAccessFile.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\RandomAccessFile\RandomAccessFile\obj\Debug\RandomAccessFile.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\RandomAccessFile\RandomAccessFile\obj\Debug\RandomAccessFile.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\RandomAccessFile\RandomAccessFile\obj\Debug\RandomAccessFile.pdb
